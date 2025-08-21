@@ -30,9 +30,9 @@ Here are some of the projects I’ve worked on:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔐 [OpenGL-Programming](https://github.com/lalankumar17/OpenGL-Programming) | Graphics programming projects using OpenGL | C++, OpenGL |
-| 🧵 [Color-Detection](https://github.com/lalankumar17/Color-Detection) | Allows users to identify the name of a color in an image by double clicking on it | Python, OpenCV, and pandas |
-| 🧠 [Disk-Scheduling-Simulator](https://github.com/lalankumar17/Disk-Scheduling-Simulator) | a modern, interactive web-based Disk Scheduling Simulator. | HTML, CSS, and JavaScript |
+|[OpenGL-Programming](https://github.com/lalankumar17/OpenGL-Programming) | Graphics programming projects using OpenGL | C++, OpenGL |
+|[Color-Detection](https://github.com/lalankumar17/Color-Detection) | Allows users to identify the name of a color in an image by double clicking on it | Python, OpenCV, and pandas |
+|[Disk-Scheduling-Simulator](https://github.com/lalankumar17/Disk-Scheduling-Simulator) | a modern, interactive web-based Disk Scheduling Simulator. | HTML, CSS, and JavaScript |
 
 
 ---
